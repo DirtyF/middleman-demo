@@ -13,7 +13,7 @@ sections:
   match: "**/*"
   templates:
   - blog-post
-upload_dir: 'source/images/ '
+upload_dir: source/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
